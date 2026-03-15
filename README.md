@@ -1,5 +1,4 @@
 # molecuar-based-EoS
-thermodynamic perturbation theory
 
 This repository contains the Python codes used to model the thermophysical properties of our advances in molecular-based equation of state at the Cohesion Laboratory (Concepción University). At the time, the folder included the followong work:
 
