@@ -4,6 +4,8 @@ This repository contains the Supplementary Material for our tabulated contact va
 
 •	ENIG3.for: This Fortran code simulates homogeneous boxes of equal-sized hard or soft (Mie) spheres in the canonical ensemble to calculate their structural properties: RDF and TCFs. It requires a text file as input mc.in}
 
+•mc.in: example file of input
+
 •	statsENIG3.ipynb. This is a Jupyter-Notebook uses to perform the statistical analysis of the output data and provides plots of the potential energy and acceptance ratio to monitor the entire simulation.
 
 
