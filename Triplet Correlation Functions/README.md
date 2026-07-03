@@ -6,5 +6,5 @@ This repository contains the Supplementary Material for our tabulated contact va
 •	HS-7: This is a folder with all input and output results.
 ### Citing this work
 Please, if you use the codes or simulation results compiled on this page cite the original work where they were reported as:
-J. M. Uceda, A. Gil-Villegas , A. Mejía. Revisiting Triplet Correlation Functions of Classical Fluids. Submitted to: Journal of Chemical Physics (2026)
+J. M. Uceda, A. Gil-Villegas , A. Mejía. Revisiting Triplet Correlation Functions of Classical Fluids. Submitted to: Journal of Chemical Physics (2026).
 
